@@ -1,1 +1,1 @@
-web: node models/User.js
+web: node index.js
